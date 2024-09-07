@@ -1,0 +1,10 @@
+1-) db_connection.php sayfasında database bağlanma bilgilerini kontrol ediniz ve kendi veri tabanı bilgilerinize göre yapınız!
+
+!!!db_connection.php dosyası hem ana klasörde hemde page klasöründe vardır ikisinde de değiştirmeniz gerekli!!!
+
+2-)veritabani.sql dosyasını veri tabanın da kurmayı unutmayınız!
+
+3-) Kodlar karışık olabilir kusura bakmayın :)
+
+
+
