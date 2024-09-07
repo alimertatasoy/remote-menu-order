@@ -36,3 +36,6 @@ Bu projede, **restoran müşterilerinin** masalarından kalkmadan, telefonları 
 
 🌟 **Daha Fazlası İçin:**
 GitHub'da projeyi inceleyin ve katkıda bulunun! ⭐
+
+
+![Sipariş Ekranı](screen.jpg)
